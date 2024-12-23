@@ -8,7 +8,7 @@ I'm a Software Engineer, Human Resource Generalist, and a Digital Literacy Ambas
 
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm currently studying Cloud Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 💡 I studied AWS Cloud Computing at [Ladies In Tech](https://theincubatorng.org/LITA/index.html) and [Skill Afrika](https://x.com/skill_afrika_?s=21)
+- 💡 I studied AWS Cloud Computing at [Incubator Hub, Ladies in Tech Africa](https://theincubatorng.org/LITA/index.html) and [Skill Afrika](https://x.com/skill_afrika_?s=21)
 - 🌱 I’m currently learning Html, CSS, and Javascript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, AWS Solution Architect, Tech Recruitment or Cloud Engineer (Intern or Junior level).
