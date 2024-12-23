@@ -1,7 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-owolabi_barakat-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/owolabi_barakat)  
-[![Twitter Badge](https://img.shields.io/badge/-@thelady_moh-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/thelady_moh?s=21)
+[![Linkedin Badge](https://img.shields.io/badge/-owolabi_barakat-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/owolabi_barakat)  [![Twitter Badge](https://img.shields.io/badge/-@thelady_moh-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/thelady_moh?s=21)
 
 I'm a Software Engineer, Human Resource Generalist, and a Digital Literacy Ambassador at [The Incubator Hub](https://theincubatorng.org/LITA/index.html). I'm passionate about sharing knowledge, contributing to projects, cloud computing and engineering, tech recruitment, and others. I create technical content (on my [Blog](https://dev.to/thelady_moh), and [YouTube](https://www.youtube.com/@Thelady_Moh)) ...
 
